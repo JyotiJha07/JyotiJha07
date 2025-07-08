@@ -1,4 +1,4 @@
-# 💻 Hi there, I'm Jyoti Jha 👋
+# 💻 Hi there, I'm      Jyoti Jha 👋
 
 🎓 I'm a 2nd year B.Tech student specializing in **Computer Science & Engineering with AI**.  
 🧠 Passionate about tech, programming, and building cool stuff on the web.  
